@@ -1,0 +1,17 @@
+[dir="rtl"] .prodcuts{
+    float: right;
+}
+
+[dir="rtl"] .pruducts-filter{
+    float: left;
+    
+}
+[dir="rtl"] .pruducts-filter{
+    padding-right: 10px;
+}
+  /* .img-cover {
+      width: 100%;
+      height: 200px; 
+      object-fit: cover;
+  } */
+
